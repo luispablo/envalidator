@@ -1,0 +1,27 @@
+{
+  "name": "envalidator",
+  "version": "0.0.1",
+  "description": "Express middleware to alert if any needed env variable hasn't been set.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luispablo/envalidator.git"
+  },
+  "keywords": [
+    "express",
+    "middleware",
+    "env",
+    "process.env",
+    "check",
+    "validate"
+  ],
+  "author": "@luispablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luispablo/envalidator/issues"
+  },
+  "homepage": "https://github.com/luispablo/envalidator#readme"
+}
