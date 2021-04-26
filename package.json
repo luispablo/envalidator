@@ -1,6 +1,6 @@
 {
   "name": "envalidator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express middleware to alert if any needed env variable hasn't been set.",
   "main": "index.js",
   "scripts": {
